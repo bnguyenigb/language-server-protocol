@@ -35,5 +35,6 @@
 	"git.branchProtection": [
 		"gh-pages"
 	],
-	"cmake.sourceDirectory": "C:/Users/nb80161/Downloads"
+	"cmake.sourceDirectory": "C:/Users/nb80161/Downloads",
+	"DockerRun.DisableDockerrc": true
 }
